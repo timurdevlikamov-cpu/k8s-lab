@@ -41,3 +41,5 @@
 ![Скрин](screenshots/T2.4.png)
 
 ---
+Манифест
+- [Deplyment](./kubeadm-config.yaml)
